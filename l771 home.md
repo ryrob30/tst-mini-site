@@ -48,7 +48,8 @@ The Adobe Experience Cloud has social sharing features to allow you and your tea
 ![1](./images/image1.jpg) ![3](./images/image3.jpg)
 
 (Don’t forget to replace the XX with your participant number)
-Go back to: [Table of Contents](#-table-of-contents)
+
+Go back to: [Table of Contents](#table-of-contents)
 
 # Lesson 2 - Adobe Target
 
@@ -154,7 +155,8 @@ Before diving into automated AI-driven personalization, let’s first quickly re
     ![21](./images/image21.png)
 
 That completes Lesson 2, which was designed as a quick review of rules-based targeting prior to the primary Lab focus on AI-driven targeting.
-Go back to: [Table of Contents](#-table-of-contents)
+
+Go back to: [Table of Contents](#table-of-contents)
 
 # Lesson 3 - Automated Personalization 
 
@@ -361,4 +363,5 @@ Automated Personalization uses a Random Forest algorithm, as its main personaliz
 
 It takes time for the machine learning to build a model for each offer/reporting group. The time it takes for the models to be built is dependent on the level of traffic and the number of conversions. In the AP Offer level report, you can see if a model has been built. Highlighted below you will see either a clock icon (needs more time) or a checkmark (model successfully built) for each offer/reporting group.
 ![52](./images/image52.png)
-Go back to: [Table of Contents](#-table-of-contents)
+
+Go back to: [Table of Contents](#table-of-contents)
