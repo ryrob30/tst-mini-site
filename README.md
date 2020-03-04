@@ -1,5 +1,5 @@
 # tst-mini-site
 
-*bullet
-  *sub-bullet
+* bullet
+  * sub-bullet
   
