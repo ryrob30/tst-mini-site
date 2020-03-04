@@ -40,13 +40,13 @@ The Adobe Experience Cloud has social sharing features to allow you and your tea
 
 ### Log into the Experience Cloud
 
-![2](./images/image2.jpg)
+![imagePlaceHolder](./images/pic02.png)
 
 1. Go to https://experience.adobe.com
 2. Click “Sign In with an Adobe ID”
 3. Log in using the credentials on your desk:
 
-![1](./images/image1.jpg) ![3](./images/image3.jpg)
+![imagePlaceHolder](./images/pic03.png) ![imagePlaceHolder](./images/pic04.png)
 
 (Don’t forget to replace the XX with your participant number)
 
@@ -68,11 +68,11 @@ Learn how to access the Adobe Target interface from the Experience Cloud
 
 1. Click “Launch” in the Target card to open Target.
 
-    ![4](./images/image4.jpg)
+    ![imagePlaceHolder](./images/pic05.png)
     
 2. Additionally, from other places in the Adobe Experience Cloud, in the top right corner of the page, click the 9-dot picker icon > Target. Then Target will load.
 
-    ![5](./images/image5.jpg)![5](./images/image5.jpg)
+    ![imagePlaceHolder](./images/pic06.png)![imagePlaceHolder](./images/pic07.png)
 
 ## Exercise 2.2 – Audiences Review
 
