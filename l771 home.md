@@ -18,7 +18,7 @@ We will also be taking a closer look at newer additions to Target’s Sensei fea
 
 > **NOTE**: At your workstation you should have a laminated card with your participant number, e.g. “99”. This number gets used for many purposes during the lab (e.g., for login credentials, your demo site URL, etc.). Wherever you see “XX” in this lab manual or in the lab exercises, replace it with your participant number.
 
-	![imagePlaceHolder](./images/pic01.png)
+> ![imagePlaceHolder](./images/pic01.png)
 
 # Lesson 1 - Adobe Experience Cloud
 
