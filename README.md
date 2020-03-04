@@ -4,5 +4,5 @@
   * sub-bullet
     * sub-sub-bullet
 - list item
- - sub list item
-   - sub sub list item
+  - sub list item
+    - sub sub list item
